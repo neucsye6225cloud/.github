@@ -1,4 +1,4 @@
-# Cloud Infa Automation
+# Cloud Infrastructure Automation
 
 Welcome to the Terraform configuration repository for deploying infrastructure on Google Cloud Platform (GCP). This README provides a detailed overview of the activated services, current configurations, and guidelines for managing the infrastructure using Terraform.
 
